@@ -7,5 +7,6 @@ learn about:
 - Loader (sass-loader, css-loader, style-loader)
 - Caching, HtmlWebpackPlugin and create template for dynamic source
 - Splitting Dev & Production (webpack-merge & web-server-dev to watch any change)
+- Html-loader, File-loader, & Clean-webpack-plugin
 
 Tutorial Link : https://youtu.be/MpGLUVbqoYQ
